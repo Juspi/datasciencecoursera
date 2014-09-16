@@ -1,3 +1,0 @@
-# Ensimmäinen rivi
-## Toinen rivi
-### Kolmas rivi
